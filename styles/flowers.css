@@ -12,10 +12,10 @@
 
 
 /* header section start  */
-.navbar{
+ .navbar{
  width: 400px;
  justify-content: flex-end;
-}
+} 
 .nav-logo{
 
      margin-left: 150px;
@@ -303,6 +303,7 @@ footer{
 
 /* i-phone responsive */
 @media screen and (max-width:576px) {
+    
     .nav-logo{
    margin-left: 0px;
    margin-top: 2px;
